@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InstagramUiDesign</string>
+    <string name="instagram">Instagram</string>
+    <string name="username_email_or_mobile_number">Username,email or mobile number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="forgot_password1">Forgot Password?</string>
+    <string name="forgot_passwor">Forgot_password</string>
+    <string name="login">Login</string>
+    <string name="instagram_login">Instagram</string>
+    <string name="welcome_to_instagram_n_alvian_putra">Welcome to instagram,\n Alvian_putra</string>
+    <string name="let_s_start_customizing_your_experience">Let\'s start customizing your experience</string>
+    <string name="continue1">Continue</string>
+</resources>
